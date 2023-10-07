@@ -1,175 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/oleg_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0501/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0501/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0502/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0502/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0503/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0503/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0504/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0504/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0505/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0505/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0506/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0506/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0507/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0507/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0508/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0508/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0509/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0509/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0510/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0510/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0511/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0511/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0512/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0512/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0513/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0513/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0514/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0514/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0515/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0515/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0516/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0516/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0517/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0517/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0518/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0518/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0519/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0519/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0520/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0520/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0521/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task05/task0521/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0601/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0601/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0602/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0602/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0603/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0603/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0604/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0604/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0605/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0605/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0606/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0606/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0607/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0607/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0608/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0608/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0609/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0609/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0610/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0610/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0610/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0611/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0611/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0612/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0612/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0613/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0613/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0614/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0614/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0615/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0615/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0616/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0616/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0501/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0501/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0502/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0502/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0503/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0503/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0504/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0504/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0505/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0505/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0506/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0506/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0507/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0507/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0508/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0508/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0509/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0509/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0510/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0510/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0511/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0511/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0512/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0512/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0513/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0513/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0514/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0514/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0515/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0515/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0516/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0516/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0517/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0517/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0518/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0518/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0519/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0519/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0520/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0520/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0521/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task05/task0521/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0601/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0601/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0602/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0602/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0603/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0603/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0604/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0604/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0605/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0605/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0606/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0606/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0607/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0607/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0608/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0608/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0609/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0609/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0610/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0610/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0610/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0611/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0611/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0612/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0612/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0613/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0613/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit1">
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0616/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0616/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -449,8 +282,23 @@
       <workItem from="1696671655625" duration="4571000" />
       <workItem from="1696694462113" duration="1230000" />
       <workItem from="1696696672604" duration="34000" />
-      <workItem from="1696696723363" duration="755000" />
+      <workItem from="1696696723363" duration="1079000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1696697495441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696697495441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit1">
+      <created>1696697591276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696697591276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,6 +314,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="first commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit1" />
   </component>
 </project>

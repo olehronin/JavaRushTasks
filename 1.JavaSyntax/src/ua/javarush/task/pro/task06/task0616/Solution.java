@@ -11,6 +11,9 @@ public class Solution {
 
     public void setPosition(String position) {
         this.position = position;
+
+
+        
     }
 
     public void setSalary(int salary) {
