@@ -13,7 +13,7 @@ public class Solution {
         this.position = position;
 
 
-        
+
     }
 
     public void setSalary(int salary) {
