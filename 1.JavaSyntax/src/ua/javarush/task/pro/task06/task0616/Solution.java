@@ -14,6 +14,8 @@ public class Solution {
 
 
 
+
+
     }
 
     public void setSalary(int salary) {
