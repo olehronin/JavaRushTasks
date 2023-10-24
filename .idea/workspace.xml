@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0614/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0614/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0615/Earth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0615/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0616/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task06/task0616/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0701/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0701/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0702/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0702/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0703/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0703/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0704/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0705/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0705/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0706/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0706/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0707/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0707/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0708/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0708/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0709/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0709/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0710/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0710/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0711/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task07/task0711/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="task8_12_10_23.v2">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task08/task0801/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task08/task0801/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task09/task0905/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task09/task0905/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task10/task1021/dhrs.class" beforeDir="false" />
     </list>
+    <list id="c8a2f2c7-4a65-4605-85c3-de5f0a8e84c9" name="level12_24.10.23" comment="level12_24.10.23" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,13 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaRushTasks" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>internship</find>
@@ -56,7 +39,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="2WO5DqUDrYFeUJbofkp2svmNrSq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
@@ -89,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -97,12 +82,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task08.task0813.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task11.task1102.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task08.task0813.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task11.task1102.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +96,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task08.task0815.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task11.task1104.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task08.task0815.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task11.task1104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +110,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task08.task0816.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task11.task1101.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task08.task0816.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task11.task1101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +124,12 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task08.task0817.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task11.task1105.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task08.task0817.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task11.task1105.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,13 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task09.task0905.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task11.task1103.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task09.task0905.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task11.task1103.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +279,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+      <changelist id="c8a2f2c7-4a65-4605-85c3-de5f0a8e84c9" name="level12_24.10.23" comment="" />
       <created>1477641354970</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -325,7 +311,15 @@
       <workItem from="1696936721262" duration="37000" />
       <workItem from="1696943235635" duration="10625000" />
       <workItem from="1697007378690" duration="17042000" />
-      <workItem from="1697095314124" duration="18009000" />
+      <workItem from="1697095314124" duration="34584000" />
+      <workItem from="1697294795028" duration="3433000" />
+      <workItem from="1697394512891" duration="1696000" />
+      <workItem from="1697437291302" duration="14861000" />
+      <workItem from="1697534196854" duration="19516000" />
+      <workItem from="1697891268646" duration="11885000" />
+      <workItem from="1698045898659" duration="3000" />
+      <workItem from="1698046416684" duration="7292000" />
+      <workItem from="1698139809566" duration="3043000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1696697495441</created>
@@ -369,7 +363,42 @@
       <option name="project" value="LOCAL" />
       <updated>1696874610153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="task8_12_10_23">
+      <created>1697132417525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697132417525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task8_12_10_23.v2">
+      <created>1697132521764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697132521764</updated>
+    </task>
+    <task id="LOCAL-00009" summary="level_11_21.10.23">
+      <created>1698053486827</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698053486827</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task8_12_10_23.v2">
+      <created>1698140081124</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698140081124</updated>
+    </task>
+    <task id="LOCAL-00011" summary="level12_24.10.23">
+      <created>1698140140648</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698140140648</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +431,11 @@
     <MESSAGE value="added Tasks 07" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Added task07.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task07.1" />
+    <MESSAGE value="task8_12_10_23" />
+    <MESSAGE value="level_11_21.10.23" />
+    <MESSAGE value="task8_12_10_23.v2" />
+    <MESSAGE value="level12_24.10.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="level12_24.10.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -423,9 +456,24 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task09/task0905/Solution.java</url>
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task09/task0908/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task09/task0908/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task09/task0915/Solution.java</url>
           <line>18</line>
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task10/task1012/Memory.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
