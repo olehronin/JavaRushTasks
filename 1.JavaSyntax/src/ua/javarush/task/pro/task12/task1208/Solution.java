@@ -13,7 +13,7 @@ public class Solution {
     }
 
     public static void compare(Character first, Character second) {
-        if (first == second) {
+        if (first.equals(second)) {
             System.out.println("однакові");
         } else if (first > second) {
             System.out.println("більше");
