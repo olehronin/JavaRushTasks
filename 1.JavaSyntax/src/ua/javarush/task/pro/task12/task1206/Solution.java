@@ -47,6 +47,7 @@ public class Solution {
             if (Character.isSpaceChar(strings[i])) {
                 count++;
             }
+
         }
         return count;
     }
