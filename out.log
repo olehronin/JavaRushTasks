@@ -3651,3 +3651,79 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2023-10-25 17:34:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-10-25 17:34:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2023-10-25 17:34:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:38:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:38:15 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-25 17:38:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-25 17:38:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:50:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:50:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:50:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:50:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 17:51:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:51:16 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2023-10-25 17:51:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:51:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-25 17:51:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:52:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:52:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:52:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:52:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 17:52:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:52:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:52:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:52:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 17:52:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:53:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 17:53:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 17:53:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 18:07:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 18:07:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 18:07:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 18:07:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 18:17:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 18:17:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-25 18:17:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-25 18:17:40 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-25 18:17:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-26 09:27:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 09:27:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 09:27:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 09:27:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-26 09:27:56 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2023-10-26 09:27:56 WARN  TaskCompleted.run(74) - You already completed this task: "Перевертання даних"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:312)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:433)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:416)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:399)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:873)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:461)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:460)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-26 09:31:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 09:31:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-26 09:31:29 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-26 09:31:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-26 09:31:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 09:31:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 10:46:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 10:46:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-26 10:46:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-26 10:46:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-26 10:46:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-26 15:18:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
