@@ -24,7 +24,5 @@ public class Solution {
         printAnything(arrayList);
 
 
-
-
     }
 }
