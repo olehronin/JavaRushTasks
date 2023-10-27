@@ -9,14 +9,14 @@ import java.util.ArrayList;
 public class Solution {
 
     private static ArrayList<String> initList() {
-        String glassTop     = "       🍷       ";
-        String glassSecond  = "      🍷🍷      ";
-        String glassThird   = "     🍷🍷🍷     ";
-        String glassFourth  = "    🍷🍷🍷🍷    ";
-        String glassFifth   = "   🍷🍷🍷🍷🍷   ";
-        String glassSixth   = "  🍷🍷🍷🍷🍷🍷  ";
+        String glassTop = "       🍷       ";
+        String glassSecond = "      🍷🍷      ";
+        String glassThird = "     🍷🍷🍷     ";
+        String glassFourth = "    🍷🍷🍷🍷    ";
+        String glassFifth = "   🍷🍷🍷🍷🍷   ";
+        String glassSixth = "  🍷🍷🍷🍷🍷🍷  ";
         String glassSeventh = " 🍷🍷🍷🍷🍷🍷🍷 ";
-        String glassEighth  = "🍷🍷🍷🍷🍷🍷🍷🍷";
+        String glassEighth = "🍷🍷🍷🍷🍷🍷🍷🍷";
         ArrayList<String> list = new ArrayList<>();
         list.add(glassEighth);
         list.add(glassSeventh);
@@ -30,7 +30,7 @@ public class Solution {
     }
 
     public static void print(ArrayList<String> glasses) {
-        for(int i = glasses.size() - 1; i >= 0; i--) {
+        for (int i = glasses.size() - 1; i >= 0; i--) {
             System.out.println(glasses.get(i));
         }
     }
@@ -39,8 +39,14 @@ public class Solution {
         System.out.println("Починаємо розбирати піраміду...");
 
         //напишіть тут ваш код
+        int size = glasses.size();
+        for (int i = 0; i <= size - 1; i++) {
+            glasses.remove(glasses.size()-1);
 
-        if(glasses.size() == 0) {
+        }
+
+
+        if (glasses.size() == 0) {
             System.out.println("Піраміду розібрано!");
         }
     }
