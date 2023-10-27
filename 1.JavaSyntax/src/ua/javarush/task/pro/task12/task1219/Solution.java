@@ -9,11 +9,12 @@ import java.util.ArrayList;
 public class Solution {
 
     public static void main(String[] args) {
-        var strings = new ArrayList<String>();
-        strings.add("Так");
-        strings.add("теж");
-        strings.add("можна");
-        strings.add("робити");
-        strings.add("!");
+        var strings = new ArrayList<String>() {{
+            add("Так");
+            add("теж");
+            add("можна");
+            add("робити");
+            add("!");
+        }};
     }
 }

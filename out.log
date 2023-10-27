@@ -3857,3 +3857,78 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-10-27 16:51:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-10-27 16:51:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-10-27 16:51:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 16:51:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:51:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-27 16:51:59 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-27 16:52:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:54:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:54:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:54:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 16:54:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-27 16:54:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 16:54:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:54:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-27 16:54:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-27 16:54:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:56:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:58:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:58:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:58:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 16:58:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-27 16:58:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 16:58:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 16:58:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-27 16:58:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-27 16:58:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:00:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:00:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-27 17:00:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-27 17:00:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:03:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:03:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:03:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:03:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-27 17:03:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:19:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:19:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-10-27 17:19:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-10-27 17:19:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:25:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:25:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:25:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:25:05 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-27 17:25:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:25:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:25:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:25:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-27 17:25:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:27:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:48:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:48:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-27 17:48:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-27 17:48:48 INFO  ApacheHttpClient.completed(32) - responseCode = 400
+2023-10-27 17:48:48 WARN  TaskCompleted.run(74) - You already completed this task: "Мисливці за привидом: у гонитві за типами"
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:74)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:312)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:433)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:416)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:399)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:873)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:461)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:460)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
