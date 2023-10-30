@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level14_task1306">
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task13/task1307/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task13/task1307/Solution.java" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level14_task1307 Previous commit - methods shuffle,rotate,reverse">
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +318,7 @@
       <workItem from="1698233372987" duration="33000" />
       <workItem from="1698233552481" duration="30234000" />
       <workItem from="1698597379682" duration="3982000" />
-      <workItem from="1698655189650" duration="3773000" />
+      <workItem from="1698655189650" duration="4219000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1696697495441</created>
@@ -595,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698658834781</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="level14_task1307 Previous commit - methods shuffle,rotate,reverse">
+      <created>1698659316282</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1698659316282</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level12_task1108" />
     <MESSAGE value="level12_task1109" />
     <MESSAGE value="level11_oldFiles" />
     <MESSAGE value="level12_task1112" />
@@ -679,7 +683,8 @@
     <MESSAGE value="level14_task1303" />
     <MESSAGE value="level14_task1304-1305" />
     <MESSAGE value="level14_task1306" />
-    <option name="LAST_COMMIT_MESSAGE" value="level14_task1306" />
+    <MESSAGE value="level14_task1307 Previous commit - methods shuffle,rotate,reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="level14_task1307 Previous commit - methods shuffle,rotate,reverse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
