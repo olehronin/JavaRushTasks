@@ -4,6 +4,9 @@ package ua.javarush.task.pro.task13.task1314;
 StringLinkedList, частина 2
 */
 
+import java.util.LinkedList;
+import java.util.List;
+
 public class Solution {
 
     public static void main(String[] args) {
@@ -17,6 +20,6 @@ public class Solution {
         stringLinkedList.add("7");
         stringLinkedList.add("8");
         stringLinkedList.add("9");
-        System.out.println(stringLinkedList.get(4)); // 5
+        System.out.println(stringLinkedList.get(7)); // 5
     }
 }

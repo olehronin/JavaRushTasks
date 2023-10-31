@@ -4274,3 +4274,60 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-10-30 19:49:58 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2023-10-30 19:50:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2023-10-30 19:50:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-30 19:52:10 INFO  PluginTasksProjectComponent.projectClosing(196) - ---------- Project closed ----------
+
+2023-10-30 19:52:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-30 19:52:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 09:12:18 INFO  PluginTasksProjectComponent.projectOpened(79) - ---------- Project opened ----------
+2023-10-31 09:12:18 INFO  PluginTasksProjectComponent.projectOpened(80) - ---------- Version 4.03 ----------
+
+2023-10-31 09:12:18 INFO  ApacheHttpClient.createAsyncHttpClient(146) - 1 proxies selected. Type: DIRECT
+2023-10-31 09:12:18 INFO  ApacheHttpClient.<init>(97) - ApacheHttpClient was successfully instantiated.
+2023-10-31 09:12:18 INFO  ApacheHttpClient.testConnection(205) - responseCode = 200
+2023-10-31 09:12:18 INFO  ApacheHttpClient.testConnection(220) - result = true
+2023-10-31 09:12:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-10-31 09:12:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-10-31 09:12:19 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-10-31 09:12:19 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-10-31 09:12:19 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-10-31 09:12:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 11:18:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 11:18:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 11:41:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 11:41:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 11:52:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 11:52:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 11:52:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 11:52:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:10:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:10:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:10:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:10:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-31 12:12:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:12:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:12:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:12:37 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-31 12:13:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:13:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:13:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:13:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-31 12:13:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:13:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:13:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:13:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-31 12:14:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:14:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-10-31 12:14:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-10-31 12:14:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-10-31 12:14:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
