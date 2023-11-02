@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level14_task1319">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level14_task1321">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -93,13 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task13.task1318.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task14.task1401.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task13.task1318.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task14.task1401.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.D" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -322,21 +322,7 @@
       <workItem from="1698233552481" duration="30234000" />
       <workItem from="1698597379682" duration="3982000" />
       <workItem from="1698655189650" duration="13719000" />
-      <workItem from="1698736344246" duration="18045000" />
-    </task>
-    <task id="LOCAL-00004" summary="test commit">
-      <created>1696698178243</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1696698178243</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added Tasks 07">
-      <created>1696778693964</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1696778693964</updated>
+      <workItem from="1698736344246" duration="22769000" />
     </task>
     <task id="LOCAL-00006" summary="Added task07.1">
       <created>1696874610153</created>
@@ -667,7 +653,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698763740548</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="level14_task1320">
+      <created>1698765179161</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1698765179161</updated>
+    </task>
+    <task id="LOCAL-00054" summary="level14_task1321">
+      <created>1698765289492</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1698765289492</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,8 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level13_task1214" />
-    <MESSAGE value="level13_task1216" />
     <MESSAGE value="level13_task1218-1219" />
     <MESSAGE value="level13_task1218-1220" />
     <MESSAGE value="level13_task1218-1222" />
@@ -751,7 +749,9 @@
     <MESSAGE value="level14_task1317" />
     <MESSAGE value="level14_task1318" />
     <MESSAGE value="level14_task1319" />
-    <option name="LAST_COMMIT_MESSAGE" value="level14_task1319" />
+    <MESSAGE value="level14_task1320" />
+    <MESSAGE value="level14_task1321" />
+    <option name="LAST_COMMIT_MESSAGE" value="level14_task1321" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -815,6 +815,11 @@
           <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task13/task1318/Solution.java</url>
           <line>16</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task14/task1401/Solution.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
