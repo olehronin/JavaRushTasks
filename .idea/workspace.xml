@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1403-1404">
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task14/task1404/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task14/task1404/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1405">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task14/task1403/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task14/task1403/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -321,14 +322,7 @@
       <workItem from="1698233552481" duration="30234000" />
       <workItem from="1698597379682" duration="3982000" />
       <workItem from="1698655189650" duration="13719000" />
-      <workItem from="1698736344246" duration="26984000" />
-    </task>
-    <task id="LOCAL-00009" summary="level_11_21.10.23">
-      <created>1698053486827</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1698053486827</updated>
+      <workItem from="1698736344246" duration="27955000" />
     </task>
     <task id="LOCAL-00010" summary="task8_12_10_23.v2">
       <created>1698140081124</created>
@@ -666,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698933789014</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="level15_task1405">
+      <created>1698934153556</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1698934153556</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -725,7 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level13_task1221" />
     <MESSAGE value="level13_task1222" />
     <MESSAGE value="level14_task1301" />
     <MESSAGE value="level14_task1302" />
@@ -750,7 +750,8 @@
     <MESSAGE value="level15_task1401" />
     <MESSAGE value="level15_task1402" />
     <MESSAGE value="level15_task1403-1404" />
-    <option name="LAST_COMMIT_MESSAGE" value="level15_task1403-1404" />
+    <MESSAGE value="level15_task1405" />
+    <option name="LAST_COMMIT_MESSAGE" value="level15_task1405" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
