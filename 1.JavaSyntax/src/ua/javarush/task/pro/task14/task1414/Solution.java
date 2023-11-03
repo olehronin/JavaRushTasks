@@ -14,6 +14,19 @@ public class Solution {
 
     public static void printStackTrace(StackTraceElement[] stackTrace) {
         //напишіть тут ваш код
+        String nameMethod = null;
+        int numbString = 0;
+        String nameClass = null;
+        String nameFile = null;
+
+        for (StackTraceElement result : stackTrace) {
+            nameMethod = result.getMethodName();
+            numbString = result.getLineNumber();
+            nameClass = result.getClassName();
+            nameFile = result.getFileName();
+            System.out.printf(OUTPUT_FORMAT, nameMethod, numbString, nameClass, nameFile);
+        }
+
     }
 
     static void makeScrewdriver() {
