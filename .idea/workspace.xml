@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1407">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-    </list>
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1409" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,21 +319,7 @@
       <workItem from="1698597379682" duration="3982000" />
       <workItem from="1698655189650" duration="13719000" />
       <workItem from="1698736344246" duration="27985000" />
-      <workItem from="1698995547344" duration="10582000" />
-    </task>
-    <task id="LOCAL-00013" summary="level12_task1109">
-      <created>1698149815593</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1698149815593</updated>
-    </task>
-    <task id="LOCAL-00014" summary="level11_oldFiles">
-      <created>1698149889841</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1698149889841</updated>
+      <workItem from="1698995547344" duration="10866000" />
     </task>
     <task id="LOCAL-00015" summary="level12_task1112">
       <created>1698150158724</created>
@@ -668,7 +650,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698999914076</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="level15_task1408">
+      <created>1699009601445</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1699009601445</updated>
+    </task>
+    <task id="LOCAL-00063" summary="level15_task1409">
+      <created>1699009665818</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1699009665818</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,8 +723,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level14_task1302" />
-    <MESSAGE value="level14_task1303" />
     <MESSAGE value="level14_task1304-1305" />
     <MESSAGE value="level14_task1306" />
     <MESSAGE value="level14_task1307 Previous commit - methods shuffle,rotate,reverse" />
@@ -752,7 +746,9 @@
     <MESSAGE value="level15_task1405" />
     <MESSAGE value="level15_task1406" />
     <MESSAGE value="level15_task1407" />
-    <option name="LAST_COMMIT_MESSAGE" value="level15_task1407" />
+    <MESSAGE value="level15_task1408" />
+    <MESSAGE value="level15_task1409" />
+    <option name="LAST_COMMIT_MESSAGE" value="level15_task1409" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
