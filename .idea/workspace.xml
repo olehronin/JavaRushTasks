@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1515">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level15_task1520">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -323,28 +324,7 @@
       <workItem from="1699347309282" duration="11853000" />
       <workItem from="1699378166870" duration="31000" />
       <workItem from="1699382427074" duration="6000" />
-      <workItem from="1699426484421" duration="17445000" />
-    </task>
-    <task id="LOCAL-00034" summary="level13_task1222">
-      <created>1698421069409</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1698421069409</updated>
-    </task>
-    <task id="LOCAL-00035" summary="level14_task1301">
-      <created>1698599403108</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1698599403108</updated>
-    </task>
-    <task id="LOCAL-00036" summary="level14_task1302">
-      <created>1698601496140</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1698601496140</updated>
+      <workItem from="1699426484421" duration="18213000" />
     </task>
     <task id="LOCAL-00037" summary="level14_task1303">
       <created>1698602340066</created>
@@ -668,7 +648,28 @@
       <option name="project" value="LOCAL" />
       <updated>1699456011476</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="level15_task1516">
+      <created>1699457324930</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457324931</updated>
+    </task>
+    <task id="LOCAL-00084" summary="level15_task1517">
+      <created>1699457393302</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457393302</updated>
+    </task>
+    <task id="LOCAL-00085" summary="level15_task1520">
+      <created>1699457509581</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457509581</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,9 +728,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level15_task1403-1404" />
-    <MESSAGE value="level15_task1405" />
-    <MESSAGE value="level15_task1406" />
     <MESSAGE value="level15_task1407" />
     <MESSAGE value="level15_task1408" />
     <MESSAGE value="level15_task1409" />
@@ -752,7 +750,10 @@
     <MESSAGE value="level15_task1513" />
     <MESSAGE value="level15_task1514" />
     <MESSAGE value="level15_task1515" />
-    <option name="LAST_COMMIT_MESSAGE" value="level15_task1515" />
+    <MESSAGE value="level15_task1516" />
+    <MESSAGE value="level15_task1517" />
+    <MESSAGE value="level15_task1520" />
+    <option name="LAST_COMMIT_MESSAGE" value="level15_task1520" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
