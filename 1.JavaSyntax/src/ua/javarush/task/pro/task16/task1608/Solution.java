@@ -1,7 +1,9 @@
 package ua.javarush.task.pro.task16.task1608;
 
+import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.format.TextStyle;
+import java.util.Calendar;
 import java.util.Locale;
 
 /* 
@@ -17,6 +19,7 @@ public class Solution {
     }
 
     static String getDayOfWeek(LocalDate date) {
+        //напишіть тут ваш код
         return date.getDayOfWeek().getDisplayName(TextStyle.FULL, Locale.forLanguageTag("uk"));
     }
 }
