@@ -18,21 +18,22 @@ public class Solution {
         //напишіть тут ваш код
         int count = 0;
         char[] strings = string.toCharArray();
-        for (int i = 0; i < strings.length; i++) {
-            if (Character.isDigit(strings[i])) {
+        for (int i = 0; i < strings.length ; i++) {
+            if(Character.isDigit(strings[i])){
                 count++;
             }
         }
+
         return count;
+
     }
 
     public static int countLetters(String string) {
         //напишіть тут ваш код
-
         int count = 0;
         char[] strings = string.toCharArray();
-        for (int i = 0; i < strings.length; i++) {
-            if (Character.isLetter(strings[i])) {
+        for (int i = 0; i < strings.length ; i++) {
+            if(Character.isLetter(strings[i])){
                 count++;
             }
         }
@@ -43,12 +44,12 @@ public class Solution {
         //напишіть тут ваш код
         int count = 0;
         char[] strings = string.toCharArray();
-        for (int i = 0; i < strings.length; i++) {
-            if (Character.isSpaceChar(strings[i])) {
+        for (int i = 0; i < strings.length ; i++) {
+            if(Character.isSpaceChar(strings[i])){
                 count++;
             }
-
         }
+
         return count;
     }
 }
