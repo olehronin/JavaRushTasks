@@ -35,7 +35,8 @@ public class MinMaxUtil {
         return max(d, max(a, b, c));
     }
 
-    public static int max(int a, int b, int c, int d, int e) {
-        return max(e, max(a, b, c, d));
+    public static int min(int n, int m, int h, int g, int k) {
+        int value = Math.min(n, m) < Math.min(h, g) ? Math.min(n, m) : Math.min(h, g);
+        return value < k ? value : k;
     }
 }
