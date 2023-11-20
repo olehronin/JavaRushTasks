@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1708">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task17/task1708/MinMaxUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task17/task1708/MinMaxUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1708/MinMaxUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1708/MinMaxUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1711/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1711/Swimmable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1715/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1715/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1801" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,14 +331,7 @@
       <workItem from="1699947252088" duration="17602000" />
       <workItem from="1700034827067" duration="9093000" />
       <workItem from="1700121574000" duration="6375000" />
-      <workItem from="1700460595965" duration="6112000" />
-    </task>
-    <task id="LOCAL-00076" summary="level15_task1508">
-      <created>1699433065931</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1699433065932</updated>
+      <workItem from="1700460595965" duration="6392000" />
     </task>
     <task id="LOCAL-00077" summary="level15_task1509">
       <created>1699433662801</created>
@@ -685,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700131596157</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="level11_task1708">
+      <created>1700499971690</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1700499971691</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
