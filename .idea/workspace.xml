@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1716">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1708">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task17/task1708/MinMaxUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task17/task1708/MinMaxUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1708/MinMaxUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1708/MinMaxUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1711/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1711/Swimmable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1715/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task17/task1715/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +73,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task18.task1801.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.javarush.task.pro.task18.task1801.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,20 +129,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.javarush.task.pro.task17.task1715.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task17.task1704.Solution" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task17.task1704.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -332,21 +339,8 @@
       <workItem from="1699882162099" duration="9990000" />
       <workItem from="1699947252088" duration="17602000" />
       <workItem from="1700034827067" duration="9093000" />
-      <workItem from="1700121574000" duration="5607000" />
-    </task>
-    <task id="LOCAL-00074" summary="level15_task1506">
-      <created>1699366713069</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1699366713069</updated>
-    </task>
-    <task id="LOCAL-00075" summary="level15_task1507">
-      <created>1699373447286</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1699373447286</updated>
+      <workItem from="1700121574000" duration="6375000" />
+      <workItem from="1700460595965" duration="6112000" />
     </task>
     <task id="LOCAL-00076" summary="level15_task1508">
       <created>1699433065931</created>
@@ -677,7 +671,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700131176501</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="level11_task1717">
+      <created>1700131458781</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1700131458781</updated>
+    </task>
+    <task id="LOCAL-00124" summary="level11_task1708">
+      <created>1700131596157</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1700131596157</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,7 +744,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level15_task1611" />
     <MESSAGE value="level15_task1612" />
     <MESSAGE value="level15_task1613" />
     <MESSAGE value="level15_task1614" />
@@ -752,7 +759,6 @@
     <MESSAGE value="level11_task1705" />
     <MESSAGE value="level11_task1706" />
     <MESSAGE value="level11_task1707" />
-    <MESSAGE value="level11_task1708" />
     <MESSAGE value="level11_task1709" />
     <MESSAGE value="level11_task1710" />
     <MESSAGE value="level11_task1711" />
@@ -761,7 +767,9 @@
     <MESSAGE value="level11_task1714" />
     <MESSAGE value="level11_task1715" />
     <MESSAGE value="level11_task1716" />
-    <option name="LAST_COMMIT_MESSAGE" value="level11_task1716" />
+    <MESSAGE value="level11_task1717" />
+    <MESSAGE value="level11_task1708" />
+    <option name="LAST_COMMIT_MESSAGE" value="level11_task1708" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
