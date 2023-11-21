@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1803">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1804">
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1805/StringComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
     </list>
@@ -21,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -102,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task17.task1715.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task18.task1805.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task17.task1715.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task18.task1805.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -335,14 +336,7 @@
       <workItem from="1700034827067" duration="9093000" />
       <workItem from="1700121574000" duration="6375000" />
       <workItem from="1700460595965" duration="6440000" />
-      <workItem from="1700559045639" duration="4015000" />
-    </task>
-    <task id="LOCAL-00080" summary="level15_task1513">
-      <created>1699451952158</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1699451952158</updated>
+      <workItem from="1700559045639" duration="6969000" />
     </task>
     <task id="LOCAL-00081" summary="level15_task1514">
       <created>1699455580284</created>
@@ -680,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700565626413</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="level11_task1804">
+      <created>1700571837129</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1700571837129</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,7 +740,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="level15_task1615" />
     <MESSAGE value="level15_task1616" />
     <MESSAGE value="level15_task1617" />
     <MESSAGE value="level15_task1618" />
@@ -764,7 +764,8 @@
     <MESSAGE value="level11_task1801" />
     <MESSAGE value="level11_task1802" />
     <MESSAGE value="level11_task1803" />
-    <option name="LAST_COMMIT_MESSAGE" value="level11_task1803" />
+    <MESSAGE value="level11_task1804" />
+    <option name="LAST_COMMIT_MESSAGE" value="level11_task1804" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
