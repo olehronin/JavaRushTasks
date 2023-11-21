@@ -16,8 +16,6 @@ public class Solution {
     }
 
     public static void print(ArrayList<Integer> numbers) {
-        for (int i = 0; i < numbers.size(); i++) {
-            System.out.println(numbers.get(i));
-        }
+        numbers.forEach(s -> System.out.println(s));
     }
 }
