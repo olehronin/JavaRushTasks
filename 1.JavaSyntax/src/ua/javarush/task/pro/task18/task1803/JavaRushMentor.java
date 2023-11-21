@@ -15,4 +15,5 @@ public class JavaRushMentor {
     public String toString() {
         return "Ментор на ім'я - " + name;
     }
+
 }

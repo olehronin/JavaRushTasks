@@ -23,5 +23,7 @@ public class Solution {
         for (JavaRushMentor mentor : mentors) {
             System.out.println(mentor);
         }
+
     }
+
 }

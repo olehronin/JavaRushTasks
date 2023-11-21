@@ -33,4 +33,8 @@ public class Solution {
         //напишіть тут ваш код
         return Arrays.stream(array);
     }
+
+
+
+
 }
