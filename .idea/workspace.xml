@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="level11_task1811">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1803/JavaRushMentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1803/JavaRushMentor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1803/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1803/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1811/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1811/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task18/task1803/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/ua/javarush/task/pro/task18/task1803/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -104,13 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task18.task1806.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.javarush.task.pro.task18.task1812.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.javarush.task.pro.task18.task1806.*" />
+          <option name="PATTERN" value="ua.javarush.task.pro.task18.task1812.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -337,14 +337,10 @@
       <workItem from="1700034827067" duration="9093000" />
       <workItem from="1700121574000" duration="6375000" />
       <workItem from="1700460595965" duration="6440000" />
-      <workItem from="1700559045639" duration="12652000" />
-    </task>
-    <task id="LOCAL-00088" summary="level15_task1603">
-      <created>1699520972276</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1699520972276</updated>
+      <workItem from="1700559045639" duration="12717000" />
+      <workItem from="1700646411393" duration="1209000" />
+      <workItem from="1700734413584" duration="1241000" />
+      <workItem from="1700831725064" duration="2736000" />
     </task>
     <task id="LOCAL-00089" summary="level15_task1604">
       <created>1699537722030</created>
@@ -682,7 +678,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700582499846</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="level11_task1811">
+      <created>1700585739003</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1700585739003</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -843,12 +846,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="inputStream" />
-        <watch expression="((ChannelInputStream)inputStream).bb" language="JAVA" custom="sun.nio.ch.ChannelInputStream" />
-        <watch expression="mapValues" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
